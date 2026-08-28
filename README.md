@@ -1,17 +1,30 @@
-Contact Card
+# 📇 Contact Card
 
-A simple contact card application built with React and Vite.
+A simple and responsive **Contact Card application** built with **React** and **Vite**.  
+The application displays personal contact information using reusable React components.
 
-Features
-Display profile pictures
-Display names and email addresses
-Reusable Profile component
-Technologies Used
-React
-JavaScript
-CSS
-Personal Information
-Name: Kirubel Alemayehu
-Email: kirubelalemeayehubogale1997@gmail.com
-ID: RA7103
-Section: DRBSE2401A
+##  Features
+
+-  Display profile pictures
+-  Display names
+-  Display email addresses
+-  Reusable Profile component
+-  Simple and responsive design
+
+##  Technologies Used
+
+- React
+- JavaScript
+- CSS
+- Vite
+
+## 👨‍💻 Personal Information
+
+
+ **Name** Kirubel Alemayehu
+ **Email**  kirubelalemeayehubogale1997@gmail.com 
+ **ID** RA7103 
+ **Section**  DRBSE2401-A
+
+  Getting Started
+
