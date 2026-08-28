@@ -1,9 +1,9 @@
-# 📇 Contact Card
+#  Contact Card
 
 A simple and responsive **Contact Card application** built with **React** and **Vite**.  
 The application displays personal contact information using reusable React components.
 
-## ✨ Features
+##  Features
 
 -  Display profile pictures
 -  Display names
@@ -18,14 +18,14 @@ The application displays personal contact information using reusable React compo
 - CSS
 - Vite
 
-## 👨‍💻 Personal Information
+##  Personal Information
 
 | Information | Details |
 |---|---|
 | **Name** | Kirubel Alemayehu |
 | **Email** | kirubelalemeayehubogale1997@gmail.com |
 | **ID** | RA7103 |
-| **Section** | DRBSE2401 |
+| **Section** | DRBSE2401-A |
 
 
 
