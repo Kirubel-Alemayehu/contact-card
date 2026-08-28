@@ -2,8 +2,8 @@ import React, { useState } from "react";
 
 import "./App.css";
 
-import Contact from "./Components/Contact";
-import Login from "./Components/Login";
+import Contact from './contact';
+import Login from './login';
 
 
 export default function App() {
